@@ -29,6 +29,7 @@
     "ngx-bootstrap": "^3.0.1",
     "rxjs": "6.0.0",
     "symbol-observable": "^1.2.0",
+    "yargs-parser": "^13.1.1",
     "zone.js": "^0.8.26"
   },
   "devDependencies": {
